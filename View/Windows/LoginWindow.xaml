@@ -5,7 +5,11 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TechnoService.View.Windows"
         mc:Ignorable="d"
-        Title="Окно авторизации" SizeToContent="WidthAndHeight" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+        Title="Окно авторизации" 
+        SizeToContent="WidthAndHeight" 
+        ResizeMode="NoResize" 
+        WindowStartupLocation="CenterScreen">
+    
     <Grid Margin="20">
         <Grid.RowDefinitions>
             <RowDefinition Height="50" />
